@@ -1,6 +1,6 @@
-Sprouts (Sprouts) 0.4.0 BETA
+OMFGcoin (OMFGcoin) 0.4.0 BETA
 
-Copyright (c) 2011-2014 Sprouts (Sprouts) Developers
+Copyright (c) 2011-2014 OMFGcoin (OMFGcoin) Developers
 Distributed under the MIT/X11 software license, see the accompanying
 file license.txt or http://www.opensource.org/licenses/mit-license.php.
 This product includes software developed by the OpenSSL Project for use in
@@ -10,7 +10,7 @@ cryptographic software written by Eric Young (eay@cryptsoft.com).
 
 Intro
 -----
-Sprouts is a free open source project derived from Bitcoin, with
+OMFGcoin is a free open source project derived from Bitcoin, with
 the goal of providing a long-term energy-efficient crypto-currency.
 Built on the foundation of Bitcoin, innovations such as proof-of-stake
 help further advance the field of crypto-currency.
@@ -18,35 +18,35 @@ help further advance the field of crypto-currency.
 
 Setup
 -----
-After completing windows setup then run sprouts-qt.
-Alternatively you can run windows command line (cmd) in sprouts program dir.
+After completing windows setup then run OMFGcoin-qt.
+Alternatively you can run windows command line (cmd) in OMFGcoin program dir.
   cd daemon
-  sproutsd
-You would need to create a configuration file sprouts.conf in the default
-wallet directory. Grant access to sproutsd/sprouts-qt in anti-virus and firewall
+  OMFGcoind
+You would need to create a configuration file OMFGcoin.conf in the default
+wallet directory. Grant access to OMFGcoind/OMFGcoin-qt in anti-virus and firewall
 applications if necessary.
 
 The software automatically finds other nodes to connect to.  You can
 enable Universal Plug and Play (UPnP) with your router/firewall
 or forward port 9901 (TCP) to your computer so you can receive
-incoming connections.  Sprouts works without incoming connections,
-but allowing incoming connections helps the Sprouts network.
+incoming connections.  OMFGcoin works without incoming connections,
+but allowing incoming connections helps the OMFGcoin network.
 
 
 Upgrade
 -------
 All your existing coins/transactions should be intact with the upgrade.
 To upgrade from 0.3, first backup wallet in qt menu or by command line
-sproutsd backupwallet <destination_backup_file>
-Then shutdown sproutsd by
-sproutsd stop
+OMFGcoind backupwallet <destination_backup_file>
+Then shutdown OMFGcoind by
+OMFGcoind stop
 Uninstall v0.3 client, download and install v0.4 client.
 If upgrade is performed after upgrade deadline, blockchain re-download is
 required.
 
 
 See the documentation/wiki at github:
-  http://github.com/sprouts/sprouts
+  http://github.com/OMFGcoin/OMFGcoin
 for help and more information.
 
 

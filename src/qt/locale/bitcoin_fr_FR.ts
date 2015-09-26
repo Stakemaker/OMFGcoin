@@ -4,24 +4,24 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="14"/>
-        <source>About Sprouts</source>
-        <translation>À propos de Sprouts</translation>
+        <source>About OMFGcoin</source>
+        <translation>À propos de OMFGcoin</translation>
     </message>
     <message>
         <location filename="../forms/aboutdialog.ui" line="53"/>
-        <source>&lt;b&gt;Sprouts&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Sprouts&lt;/b&gt; version</translation>
+        <source>&lt;b&gt;OMFGcoin&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;OMFGcoin&lt;/b&gt; version</translation>
     </message>
     <message>
         <location filename="../forms/aboutdialog.ui" line="85"/>
-        <source>Copyright © 2011-2013 Sprouts Developers
+        <source>Copyright © 2011-2013 OMFGcoin Developers
 
 This is experimental software.
 
 Distributed under the MIT/X11 software license, see the accompanying file license.txt or http://www.opensource.org/licenses/mit-license.php.
 
 This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit (http://www.openssl.org/) and cryptographic software written by Eric Young (eay@cryptsoft.com) and UPnP software written by Thomas Bernard.</source>
-        <translation>Copyright © 2011-2013 Développeurs de Sprouts
+        <translation>Copyright © 2011-2013 Développeurs de OMFGcoin
 
 Ce logiciel est en phase expérimentale.
 
@@ -39,8 +39,8 @@ Ce produit inclut des logiciels développés par OpenSSL Project pour utilisatio
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="20"/>
-        <source>These are your Sprouts addresses for receiving payments.  You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Voici vos adresses Sprouts qui vous permettent de recevoir des paiements.  Vous pouvez donner une adresse différente à chaque expéditeur afin de savoir qui vous paye.</translation>
+        <source>These are your OMFGcoin addresses for receiving payments.  You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Voici vos adresses OMFGcoin qui vous permettent de recevoir des paiements.  Vous pouvez donner une adresse différente à chaque expéditeur afin de savoir qui vous paye.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="33"/>
@@ -226,9 +226,9 @@ Ce produit inclut des logiciels développés par OpenSSL Project pour utilisatio
     </message>
     <message>
         <location filename="../askpassphrasedialog.cpp" line="102"/>
-        <source>WARNING: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR SproutsS&lt;/b&gt;!
+        <source>WARNING: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR OMFGcoinS&lt;/b&gt;!
 Are you sure you wish to encrypt your wallet?</source>
-        <translation>ATTENTION : Si vous chiffrez votre porte-monnaie et perdez votre phrase de passe, vous &lt;b&gt;PERDREZ TOUS VOS SproutsS&lt;/b&gt; !
+        <translation>ATTENTION : Si vous chiffrez votre porte-monnaie et perdez votre phrase de passe, vous &lt;b&gt;PERDREZ TOUS VOS OMFGcoinS&lt;/b&gt; !
 Êtes-vous sûr de vouloir chiffrer votre porte-monnaie ?</translation>
     </message>
     <message>
@@ -239,8 +239,8 @@ Are you sure you wish to encrypt your wallet?</source>
     </message>
     <message>
         <location filename="../askpassphrasedialog.cpp" line="112"/>
-        <source>Sprouts will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your Sproutss from being stolen by malware infecting your computer.</source>
-        <translation>Sprouts va à présent se fermer pour terminer la procédure de cryptage. N&apos;oubliez pas que le chiffrement de votre porte-monnaie ne peut pas fournir une protection totale contre le vol par des logiciels malveillants qui infecteraient votre ordinateur.</translation>
+        <source>OMFGcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your OMFGcoins from being stolen by malware infecting your computer.</source>
+        <translation>OMFGcoin va à présent se fermer pour terminer la procédure de cryptage. N&apos;oubliez pas que le chiffrement de votre porte-monnaie ne peut pas fournir une protection totale contre le vol par des logiciels malveillants qui infecteraient votre ordinateur.</translation>
     </message>
     <message>
         <location filename="../askpassphrasedialog.cpp" line="208"/>
@@ -291,11 +291,11 @@ Are you sure you wish to encrypt your wallet?</source>
     </message>
 </context>
 <context>
-    <name>SproutsGUI</name>
+    <name>OMFGcoinGUI</name>
     <message>
         <location filename="../bitcoingui.cpp" line="69"/>
-        <source>Sprouts Wallet</source>
-        <translation>Porte-monnaie Sprouts</translation>
+        <source>OMFGcoin Wallet</source>
+        <translation>Porte-monnaie OMFGcoin</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="142"/>
@@ -355,8 +355,8 @@ Are you sure you wish to encrypt your wallet?</source>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="201"/>
-        <source>Send coins to a Sprouts address</source>
-        <translation>Envoyer des pièces à une adresse Sprouts</translation>
+        <source>Send coins to a OMFGcoin address</source>
+        <translation>Envoyer des pièces à une adresse OMFGcoin</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="206"/>
@@ -385,8 +385,8 @@ Are you sure you wish to encrypt your wallet?</source>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="231"/>
-        <source>Show information about Sprouts</source>
-        <translation>Afficher des informations à propos de Sprouts</translation>
+        <source>Show information about OMFGcoin</source>
+        <translation>Afficher des informations à propos de OMFGcoin</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="233"/>
@@ -405,18 +405,18 @@ Are you sure you wish to encrypt your wallet?</source>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="237"/>
-        <source>Modify configuration options for Sprouts</source>
-        <translation>Modifier les options de configuration pour Sprouts</translation>
+        <source>Modify configuration options for OMFGcoin</source>
+        <translation>Modifier les options de configuration pour OMFGcoin</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="239"/>
-        <source>Open &amp;Sprouts</source>
-        <translation>Ouvrir &amp;Sprouts</translation>
+        <source>Open &amp;OMFGcoin</source>
+        <translation>Ouvrir &amp;OMFGcoin</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="240"/>
-        <source>Show the Sprouts window</source>
-        <translation>Afficher la fenêtre de Sprouts</translation>
+        <source>Show the OMFGcoin window</source>
+        <translation>Afficher la fenêtre de OMFGcoin</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="241"/>
@@ -490,13 +490,13 @@ Are you sure you wish to encrypt your wallet?</source>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="407"/>
-        <source>Sprouts-qt</source>
-        <translation>Sprouts-qt</translation>
+        <source>OMFGcoin-qt</source>
+        <translation>OMFGcoin-qt</translation>
     </message>
     <message numerus="yes">
         <location filename="../bitcoingui.cpp" line="449"/>
-        <source>%n active connection(s) to Sprouts network</source>
-        <translation><numerusform>%n connexion active avec le réseau Sprouts</numerusform><numerusform>%n connexions actives avec le réseau Sprouts</numerusform></translation>
+        <source>%n active connection(s) to OMFGcoin network</source>
+        <translation><numerusform>%n connexion active avec le réseau OMFGcoin</numerusform><numerusform>%n connexions actives avec le réseau OMFGcoin</numerusform></translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="475"/>
@@ -679,8 +679,8 @@ Adresse : %4
     </message>
     <message>
         <location filename="../editaddressdialog.cpp" line="96"/>
-        <source>The entered address &quot;%1&quot; is not a valid Sprouts address.</source>
-        <translation>L&apos;adresse fournie « %1 » n&apos;est pas une adresse Sprouts valide.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid OMFGcoin address.</source>
+        <translation>L&apos;adresse fournie « %1 » n&apos;est pas une adresse OMFGcoin valide.</translation>
     </message>
     <message>
         <location filename="../editaddressdialog.cpp" line="101"/>
@@ -697,13 +697,13 @@ Adresse : %4
     <name>MainOptionsPage</name>
     <message>
         <location filename="../optionsdialog.cpp" line="170"/>
-        <source>&amp;Start Sprouts on window system startup</source>
-        <translation>&amp;Démarrer Sprouts avec le système de fenêtres</translation>
+        <source>&amp;Start OMFGcoin on window system startup</source>
+        <translation>&amp;Démarrer OMFGcoin avec le système de fenêtres</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="171"/>
-        <source>Automatically start Sprouts after the computer is turned on</source>
-        <translation>Lancer automatiquement Sprouts lorsque l&apos;ordinateur est allumé</translation>
+        <source>Automatically start OMFGcoin after the computer is turned on</source>
+        <translation>Lancer automatiquement OMFGcoin lorsque l&apos;ordinateur est allumé</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="175"/>
@@ -722,8 +722,8 @@ Adresse : %4
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="181"/>
-        <source>Automatically open the Sprouts client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Ouvrir le port du client Sprouts automatiquement sur le routeur. Cela ne fonctionne que si votre routeur supporte l&apos;UPnP et si la fonctionnalité est activée.</translation>
+        <source>Automatically open the OMFGcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Ouvrir le port du client OMFGcoin automatiquement sur le routeur. Cela ne fonctionne que si votre routeur supporte l&apos;UPnP et si la fonctionnalité est activée.</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="185"/>
@@ -743,7 +743,7 @@ Adresse : %4
     <message>
         <location filename="../optionsdialog.cpp" line="191"/>
         <source>Connect to the Bitcon network through a SOCKS4 proxy (e.g. when connecting through Tor)</source>
-        <translation>Connexion au réseau Sprouts à travers un proxy SOCKS4 (par ex. lors d&apos;une connexion via Tor)</translation>
+        <translation>Connexion au réseau OMFGcoin à travers un proxy SOCKS4 (par ex. lors d&apos;une connexion via Tor)</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="196"/>
@@ -1183,8 +1183,8 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="25"/>
-        <source>Enter a Sprouts address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Entez une adresse Sprouts (par ex. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <source>Enter a OMFGcoin address (e.g. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <translation>Entez une adresse OMFGcoin (par ex. 1NS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
 </context>
 <context>
@@ -1632,11 +1632,11 @@ p, li { white-space: pre-wrap; }
     </message>
 </context>
 <context>
-    <name>Sprouts-core</name>
+    <name>OMFGcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="3"/>
-        <source>Sprouts version</source>
-        <translation>Version de Sprouts</translation>
+        <source>OMFGcoin version</source>
+        <translation>Version de OMFGcoin</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="4"/>
@@ -1645,8 +1645,8 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="5"/>
-        <source>Send command to -server or sproutsd</source>
-        <translation>Envoyer une commande à -server ou à sproutsd</translation>
+        <source>Send command to -server or OMFGcoind</source>
+        <translation>Envoyer une commande à -server ou à OMFGcoind</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="6"/>
@@ -1665,13 +1665,13 @@ p, li { white-space: pre-wrap; }
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="9"/>
-        <source>Specify configuration file (default: Sprouts.conf)</source>
-        <translation>Spécifier le fichier de configuration (par défaut : Sprouts.conf)</translation>
+        <source>Specify configuration file (default: OMFGcoin.conf)</source>
+        <translation>Spécifier le fichier de configuration (par défaut : OMFGcoin.conf)</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="10"/>
-        <source>Specify pid file (default: sproutsd.pid)</source>
-        <translation>Spécifier le fichier pid (par défaut : sproutsd.pid)</translation>
+        <source>Specify pid file (default: OMFGcoind.pid)</source>
+        <translation>Spécifier le fichier pid (par défaut : OMFGcoind.pid)</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="11"/>
@@ -1846,9 +1846,9 @@ p, li { white-space: pre-wrap; }
     <message>
         <location filename="../bitcoinstrings.cpp" line="47"/>
         <source>
-SSL options: (see the Sprouts Wiki for SSL setup instructions)</source>
+SSL options: (see the OMFGcoin Wiki for SSL setup instructions)</source>
         <translation>
-Options SSL : (cf. le wiki Sprouts pour les réglages SSL)</translation>
+Options SSL : (cf. le wiki OMFGcoin pour les réglages SSL)</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="50"/>
@@ -1877,8 +1877,8 @@ Options SSL : (cf. le wiki Sprouts pour les réglages SSL)</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="57"/>
-        <source>Cannot obtain a lock on data directory %s.  Sprouts is probably already running.</source>
-        <translation>Impossible d&apos;obtenir un verrou sur le répertoire de données %s.  Sprouts fonctionne probablement déjà.</translation>
+        <source>Cannot obtain a lock on data directory %s.  OMFGcoin is probably already running.</source>
+        <translation>Impossible d&apos;obtenir un verrou sur le répertoire de données %s.  OMFGcoin fonctionne probablement déjà.</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="60"/>
@@ -1902,13 +1902,13 @@ Options SSL : (cf. le wiki Sprouts pour les réglages SSL)</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="66"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Sprouts</source>
-        <translation>Erreur lors du chargement de wallet.dat : le porte-monnaie nécessite une version plus récente de Sprouts</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of OMFGcoin</source>
+        <translation>Erreur lors du chargement de wallet.dat : le porte-monnaie nécessite une version plus récente de OMFGcoin</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="67"/>
-        <source>Wallet needed to be rewritten: restart Sprouts to complete</source>
-        <translation>Le porte-monnaie nécessitait une réécriture. Veuillez redémarrer Sprouts pour terminer l&apos;opération</translation>
+        <source>Wallet needed to be rewritten: restart OMFGcoin to complete</source>
+        <translation>Le porte-monnaie nécessitait une réécriture. Veuillez redémarrer OMFGcoin pour terminer l&apos;opération</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="68"/>
@@ -1962,13 +1962,13 @@ Options SSL : (cf. le wiki Sprouts pour les réglages SSL)</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="78"/>
-        <source>Unable to bind to port %d on this computer.  Sprouts is probably already running.</source>
-        <translation>Impossible de s&apos;attacher au port %d sur cet ordinateur.  Sprouts fonctionne probablement déjà.</translation>
+        <source>Unable to bind to port %d on this computer.  OMFGcoin is probably already running.</source>
+        <translation>Impossible de s&apos;attacher au port %d sur cet ordinateur.  OMFGcoin fonctionne probablement déjà.</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="81"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct.  If your clock is wrong Sprouts will not work properly.</source>
-        <translation>Attention : veuillez vérifier que l&apos;heure et la date de votre ordinateur sont corrects.  Si votre horloge n&apos;est pas à l&apos;heure, Sprouts ne fonctionnera pas correctement.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct.  If your clock is wrong OMFGcoin will not work properly.</source>
+        <translation>Attention : veuillez vérifier que l&apos;heure et la date de votre ordinateur sont corrects.  Si votre horloge n&apos;est pas à l&apos;heure, OMFGcoin ne fonctionnera pas correctement.</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="84"/>

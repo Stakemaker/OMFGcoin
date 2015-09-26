@@ -6,22 +6,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="14"/>
-        <source>About Sprouts</source>
-        <translation>Über Sprouts</translation>
+        <source>About OMFGcoin</source>
+        <translation>Über OMFGcoin</translation>
     </message>
     <message>
         <location filename="../forms/aboutdialog.ui" line="75"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Sprouts&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Sprouts&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;OMFGcoin&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;OMFGcoin&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="../forms/aboutdialog.ui" line="113"/>
-        <source>Copyright © 2014 Sprouts Developers</source>
-        <translation>Copyright © 2014 Die Sprouts-Entwickler</translation>
+        <source>Copyright © 2014 OMFGcoin Developers</source>
+        <translation>Copyright © 2014 Die OMFGcoin-Entwickler</translation>
     </message>
     <message>
         <location filename="../forms/aboutdialog.ui" line="120"/>
-        <source>Copyright © 2011-2014 Sprouts Developers</source>
+        <source>Copyright © 2011-2014 OMFGcoin Developers</source>
         <translation>Copyright © 2011-2014 Die PPcoin-Entwickler</translation>
     </message>
     <message>
@@ -48,8 +48,8 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="20"/>
-        <source>These are your Sprouts addresses for receiving payments.  You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Dies sind Ihre Sprouts-Adressen zum Empfangen von Zahlungen. Es wird empfohlen für jede Transaktion eine neue Empfangsadresse zu verwenden.</translation>
+        <source>These are your OMFGcoin addresses for receiving payments.  You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Dies sind Ihre OMFGcoin-Adressen zum Empfangen von Zahlungen. Es wird empfohlen für jede Transaktion eine neue Empfangsadresse zu verwenden.</translation>
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="33"/>
@@ -266,8 +266,8 @@ Sind Sie sich sicher, dass Sie Ihre Wallet verschlüsseln möchten?</translation
     </message>
     <message>
         <location filename="../askpassphrasedialog.cpp" line="117"/>
-        <source>Sprouts will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your Sproutss from being stolen by malware infecting your computer.</source>
-        <translation>Sprouts wird jetzt beendet, um den Verschlüsselungsprozess abzuschließen. Bitte beachten Sie, dass die Wallet-Verschlüsselung nicht vollständig vor Diebstahl Ihrer Sproutss durch Schadprogramme schützt, die Ihren Computer befällt.</translation>
+        <source>OMFGcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your OMFGcoins from being stolen by malware infecting your computer.</source>
+        <translation>OMFGcoin wird jetzt beendet, um den Verschlüsselungsprozess abzuschließen. Bitte beachten Sie, dass die Wallet-Verschlüsselung nicht vollständig vor Diebstahl Ihrer OMFGcoins durch Schadprogramme schützt, die Ihren Computer befällt.</translation>
     </message>
     <message>
         <location filename="../askpassphrasedialog.cpp" line="123"/>
@@ -348,7 +348,7 @@ Sind Sie sich sicher, dass Sie Ihre Wallet verschlüsseln möchten?</translation
     <message>
         <location filename="../bitcoingui.cpp" line="215"/>
         <source>&amp;Receive coins</source>
-        <translation>Sproutss &amp;empfangen</translation>
+        <translation>OMFGcoins &amp;empfangen</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="216"/>
@@ -358,7 +358,7 @@ Sind Sie sich sicher, dass Sie Ihre Wallet verschlüsseln möchten?</translation
     <message>
         <location filename="../bitcoingui.cpp" line="221"/>
         <source>&amp;Send coins</source>
-        <translation>Sproutss &amp;überweisen</translation>
+        <translation>OMFGcoins &amp;überweisen</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="227"/>
@@ -382,8 +382,8 @@ Sind Sie sich sicher, dass Sie Ihre Wallet verschlüsseln möchten?</translation
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="254"/>
-        <source>Show information about Sprouts</source>
-        <translation>Informationen über Sprouts anzeigen</translation>
+        <source>Show information about OMFGcoin</source>
+        <translation>Informationen über OMFGcoin anzeigen</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="256"/>
@@ -428,7 +428,7 @@ Sind Sie sich sicher, dass Sie Ihre Wallet verschlüsseln möchten?</translation
     <message>
         <location filename="../bitcoingui.cpp" line="270"/>
         <source>Unlock wallet only for minting. Sending coins will still require the passphrase.</source>
-        <translation>Brieftasche nur zum Prägen entsperren. Das Versenden von Sproutss wird weiterhin die Passphrase erfordern. </translation>
+        <translation>Brieftasche nur zum Prägen entsperren. Das Versenden von OMFGcoins wird weiterhin die Passphrase erfordern. </translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="272"/>
@@ -497,38 +497,38 @@ Sind Sie sich sicher, dass Sie Ihre Wallet verschlüsseln möchten?</translation
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="76"/>
-        <source>Sprouts Wallet</source>
-        <translation>Sprouts Brieftasche</translation>
+        <source>OMFGcoin Wallet</source>
+        <translation>OMFGcoin Brieftasche</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="222"/>
-        <source>Send coins to a Sprouts address</source>
-        <translation>Münzen an eine Sprouts-Adresse senden</translation>
+        <source>Send coins to a OMFGcoin address</source>
+        <translation>Münzen an eine OMFGcoin-Adresse senden</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="253"/>
-        <source>&amp;About Sprouts</source>
-        <translation>Über Sprouts</translation>
+        <source>&amp;About OMFGcoin</source>
+        <translation>Über OMFGcoin</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="260"/>
-        <source>Modify configuration options for Sprouts</source>
-        <translation>Die Konfiguration von Sprouts bearbeiten</translation>
+        <source>Modify configuration options for OMFGcoin</source>
+        <translation>Die Konfiguration von OMFGcoin bearbeiten</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="262"/>
-        <source>Show/Hide &amp;Sprouts</source>
-        <translation>&amp;Sprouts anzeigen/verstecken</translation>
+        <source>Show/Hide &amp;OMFGcoin</source>
+        <translation>&amp;OMFGcoin anzeigen/verstecken</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="263"/>
-        <source>Show or hide the Sprouts window</source>
-        <translation>Zeige oder verstecke das Sprouts Fenster</translation>
+        <source>Show or hide the OMFGcoin window</source>
+        <translation>Zeige oder verstecke das OMFGcoin Fenster</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="415"/>
-        <source>Sprouts client</source>
-        <translation>Sprouts-Client</translation>
+        <source>OMFGcoin client</source>
+        <translation>OMFGcoin-Client</translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="443"/>
@@ -537,7 +537,7 @@ Sind Sie sich sicher, dass Sie Ihre Wallet verschlüsseln möchten?</translation
     </message>
     <message numerus="yes">
         <location filename="../bitcoingui.cpp" line="507"/>
-        <source>%n active connection(s) to Sprouts network</source>
+        <source>%n active connection(s) to OMFGcoin network</source>
         <translation type="unfinished">
             <numerusform></numerusform>
             <numerusform></numerusform>
@@ -677,8 +677,8 @@ Adresse: %4</translation>
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="128"/>
-        <source>A fatal error occured. Sprouts can no longer continue safely and will quit.</source>
-        <translation>Ein fataler Fehler trat auf. Sprouts kann nicht mehr sicher fortfahren und wird sich beenden. </translation>
+        <source>A fatal error occured. OMFGcoin can no longer continue safely and will quit.</source>
+        <translation>Ein fataler Fehler trat auf. OMFGcoin kann nicht mehr sicher fortfahren und wird sich beenden. </translation>
     </message>
 </context>
 <context>
@@ -967,7 +967,7 @@ Das bedeutet, dass eine Gebühr von mindestens %2 erforderlich ist.</translation
     <message>
         <location filename="../optionsdialog.cpp" line="279"/>
         <source>Choose the default subdivision unit to show in the interface, and when sending coins</source>
-        <translation>Wählen Sie die standardmäßige Untereinheit, die in der Benutzeroberfläche und beim Überweisen von Sproutss angezeigt werden soll.</translation>
+        <translation>Wählen Sie die standardmäßige Untereinheit, die in der Benutzeroberfläche und beim Überweisen von OMFGcoins angezeigt werden soll.</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="286"/>
@@ -976,8 +976,8 @@ Das bedeutet, dass eine Gebühr von mindestens %2 erforderlich ist.</translation
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="287"/>
-        <source>Whether to show Sprouts addresses in the transaction list</source>
-        <translation>Legt fest, ob Sprouts-Adressen im Transaktionsverlauf angezeigt werden.</translation>
+        <source>Whether to show OMFGcoin addresses in the transaction list</source>
+        <translation>Legt fest, ob OMFGcoin-Adressen im Transaktionsverlauf angezeigt werden.</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="290"/>
@@ -1044,8 +1044,8 @@ Das bedeutet, dass eine Gebühr von mindestens %2 erforderlich ist.</translation
     </message>
     <message>
         <location filename="../editaddressdialog.cpp" line="96"/>
-        <source>The entered address &quot;%1&quot; is not a valid Sprouts address.</source>
-        <translation>Die eingegebene Adresse &quot;%1&quot; ist keine gültige Sprouts-Adresse.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid OMFGcoin address.</source>
+        <translation>Die eingegebene Adresse &quot;%1&quot; ist keine gültige OMFGcoin-Adresse.</translation>
     </message>
     <message>
         <location filename="../editaddressdialog.cpp" line="101"/>
@@ -1087,8 +1087,8 @@ Das bedeutet, dass eine Gebühr von mindestens %2 erforderlich ist.</translation
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="187"/>
-        <source>Automatically open the Sprouts client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatisch den Sprouts-Clientport auf dem Router öffnen. Dies funktioniert nur, wenn Ihr Router UPnP unterstützt und dies aktiviert ist.</translation>
+        <source>Automatically open the OMFGcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatisch den OMFGcoin-Clientport auf dem Router öffnen. Dies funktioniert nur, wenn Ihr Router UPnP unterstützt und dies aktiviert ist.</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="190"/>
@@ -1098,7 +1098,7 @@ Das bedeutet, dass eine Gebühr von mindestens %2 erforderlich ist.</translation
     <message>
         <location filename="../optionsdialog.cpp" line="191"/>
         <source>Connect to the Bitcon network through a SOCKS4 proxy (e.g. when connecting through Tor)</source>
-        <translation>Über einen SOCKS4-Proxy zum Sprouts-Netzwerk verbinden (z.B. bei einer Verbindung über Tor)</translation>
+        <translation>Über einen SOCKS4-Proxy zum OMFGcoin-Netzwerk verbinden (z.B. bei einer Verbindung über Tor)</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="196"/>
@@ -1122,8 +1122,8 @@ Das bedeutet, dass eine Gebühr von mindestens %2 erforderlich ist.</translation
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="217"/>
-        <source>Mandatory network transaction fee per kB transferred. Most transactions are 1 kB and incur a 0.01 SPRTS fee. Note: transfer size may increase depending on the number of input transactions required to be added together to fund the payment.</source>
-        <translation>Vorgeschriebene Netzwerktransaktionsgebühr pro übertragenes kB. Die meisten Transaktionen sind 1 kB groß und erfordern eine Gebühr von 0.01 SPRTS. Hinweis: Die Transaktionsgröße kann sich je nach Anzahl der Eingangstransaktionen, die zum Erreichen des Gesamtbetrages zusammengerechnet werden,  erhöhen.</translation>
+        <source>Mandatory network transaction fee per kB transferred. Most transactions are 1 kB and incur a 0.01 OMFG fee. Note: transfer size may increase depending on the number of input transactions required to be added together to fund the payment.</source>
+        <translation>Vorgeschriebene Netzwerktransaktionsgebühr pro übertragenes kB. Die meisten Transaktionen sind 1 kB groß und erfordern eine Gebühr von 0.01 OMFG. Hinweis: Die Transaktionsgröße kann sich je nach Anzahl der Eingangstransaktionen, die zum Erreichen des Gesamtbetrages zusammengerechnet werden,  erhöhen.</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="223"/>
@@ -1142,13 +1142,13 @@ Das bedeutet, dass eine Gebühr von mindestens %2 erforderlich ist.</translation
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="172"/>
-        <source>&amp;Start Sprouts on window system startup</source>
-        <translation>Starte Sprouts nach Systemanmeldung</translation>
+        <source>&amp;Start OMFGcoin on window system startup</source>
+        <translation>Starte OMFGcoin nach Systemanmeldung</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="173"/>
-        <source>Automatically start Sprouts after the computer is turned on</source>
-        <translation>Starte Sprouts automatisch, nachdem der Computer eingeschaltet wurde. </translation>
+        <source>Automatically start OMFGcoin after the computer is turned on</source>
+        <translation>Starte OMFGcoin automatisch, nachdem der Computer eingeschaltet wurde. </translation>
     </message>
 </context>
 <context>
@@ -1432,8 +1432,8 @@ Das bedeutet, dass eine Gebühr von mindestens %2 erforderlich ist.</translation
     </message>
     <message>
         <location filename="../forms/qrcodedialog.ui" line="105"/>
-        <source>SPRTS</source>
-        <translation>SPRTS</translation>
+        <source>OMFG</source>
+        <translation>OMFG</translation>
     </message>
     <message>
         <location filename="../forms/qrcodedialog.ui" line="121"/>
@@ -1475,8 +1475,8 @@ Das bedeutet, dass eine Gebühr von mindestens %2 erforderlich ist.</translation
     <name>RPCConsole</name>
     <message>
         <location filename="../forms/rpcconsole.ui" line="14"/>
-        <source>Sprouts (Sprouts) debug window</source>
-        <translation>Sprouts (Sprouts) Debugfenster</translation>
+        <source>OMFGcoin (OMFGcoin) debug window</source>
+        <translation>OMFGcoin (OMFGcoin) Debugfenster</translation>
     </message>
     <message>
         <location filename="../forms/rpcconsole.ui" line="24"/>
@@ -1567,8 +1567,8 @@ Das bedeutet, dass eine Gebühr von mindestens %2 erforderlich ist.</translation
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="306"/>
-        <source>Welcome to the Sprouts RPC console.&lt;br&gt;Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.&lt;br&gt;Type &lt;b&gt;help&lt;/b&gt; for an overview of available commands.</source>
-        <translation>Willkommen in der Sprouts-RPC-Konsole. &lt;br&gt; Nutze Pfeiltaste hoch und runter, um den Verlauf durchzublättern und &lt;b&gt;Strg-L&lt;/b&gt;, um die Konsole zurückzusetzen. &lt;br&gt;  Bitte &lt;b&gt;help&lt;/b&gt; eingeben, um eine Übersicht verfügbarer Befehle zu erhalten.</translation>
+        <source>Welcome to the OMFGcoin RPC console.&lt;br&gt;Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.&lt;br&gt;Type &lt;b&gt;help&lt;/b&gt; for an overview of available commands.</source>
+        <translation>Willkommen in der OMFGcoin-RPC-Konsole. &lt;br&gt; Nutze Pfeiltaste hoch und runter, um den Verlauf durchzublättern und &lt;b&gt;Strg-L&lt;/b&gt;, um die Konsole zurückzusetzen. &lt;br&gt;  Bitte &lt;b&gt;help&lt;/b&gt; eingeben, um eine Übersicht verfügbarer Befehle zu erhalten.</translation>
     </message>
 </context>
 <context>
@@ -1583,7 +1583,7 @@ Das bedeutet, dass eine Gebühr von mindestens %2 erforderlich ist.</translation
         <location filename="../sendcoinsdialog.cpp" line="202"/>
         <location filename="../sendcoinsdialog.cpp" line="207"/>
         <source>Send Coins</source>
-        <translation>Sproutss überweisen</translation>
+        <translation>OMFGcoins überweisen</translation>
     </message>
     <message>
         <location filename="../forms/sendcoinsdialog.ui" line="90"/>
@@ -1782,7 +1782,7 @@ Das bedeutet, dass eine Gebühr von mindestens %2 erforderlich ist.</translation
     <message>
         <location filename="../sendcoinsdialog.cpp" line="457"/>
         <source>Warning: Invalid Bitcoin address</source>
-        <translation>Warnung: Ungültige Sprouts-Adresse</translation>
+        <translation>Warnung: Ungültige OMFGcoin-Adresse</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="466"/>
@@ -1801,8 +1801,8 @@ Das bedeutet, dass eine Gebühr von mindestens %2 erforderlich ist.</translation
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="36"/>
-        <source>Enter a Sprouts address</source>
-        <translation>Sprouts-Addresse eingeben</translation>
+        <source>Enter a OMFGcoin address</source>
+        <translation>OMFGcoin-Addresse eingeben</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="177"/>
@@ -1827,7 +1827,7 @@ Das bedeutet, dass eine Gebühr von mindestens %2 erforderlich ist.</translation
     <message>
         <location filename="../sendcoinsdialog.cpp" line="208"/>
         <source>Error: The transaction was rejected.  This might happen if some of the coins in your wallet were already spent, such as if you used a copy of wallet.dat and coins were spent in the copy but not marked as spent here.</source>
-        <translation>Fehler: Die Transaktion wurde abgelehnt. Dies kann passieren, wenn einige Sproutss aus Ihrer Brieftasche bereits ausgegeben wurden. Beispielsweise weil Sie eine Kopie Ihrer wallet.dat genutzt, die Sproutss dort ausgegeben haben und dies daher in der derzeit aktiven Brieftasche nicht vermerkt ist.</translation>
+        <translation>Fehler: Die Transaktion wurde abgelehnt. Dies kann passieren, wenn einige OMFGcoins aus Ihrer Brieftasche bereits ausgegeben wurden. Beispielsweise weil Sie eine Kopie Ihrer wallet.dat genutzt, die OMFGcoins dort ausgegeben haben und dies daher in der derzeit aktiven Brieftasche nicht vermerkt ist.</translation>
     </message>
 </context>
 <context>
@@ -1890,8 +1890,8 @@ Das bedeutet, dass eine Gebühr von mindestens %2 erforderlich ist.</translation
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="25"/>
-        <source>Enter a Sprouts address</source>
-        <translation>Sprouts-Addresse eingeben</translation>
+        <source>Enter a OMFGcoin address</source>
+        <translation>OMFGcoin-Addresse eingeben</translation>
     </message>
 </context>
 <context>
@@ -1955,8 +1955,8 @@ Das bedeutet, dass eine Gebühr von mindestens %2 erforderlich ist.</translation
     </message>
     <message>
         <location filename="../forms/signverifymessagedialog.ui" line="152"/>
-        <source>Sign the message to prove you own this Sprouts address</source>
-        <translation>Die Nachricht signieren, um den Besitz dieser Sprouts-Adresse zu beweisen</translation>
+        <source>Sign the message to prove you own this OMFGcoin address</source>
+        <translation>Die Nachricht signieren, um den Besitz dieser OMFGcoin-Adresse zu beweisen</translation>
     </message>
     <message>
         <location filename="../forms/signverifymessagedialog.ui" line="155"/>
@@ -1991,8 +1991,8 @@ Das bedeutet, dass eine Gebühr von mindestens %2 erforderlich ist.</translation
     </message>
     <message>
         <location filename="../forms/signverifymessagedialog.ui" line="295"/>
-        <source>Verify the message to ensure it was signed with the specified Sprouts address</source>
-        <translation>Die Nachricht verifizieren, um sicherzustellen, dass diese mit der angegebenen Sprouts-Adresse signiert wurde</translation>
+        <source>Verify the message to ensure it was signed with the specified OMFGcoin address</source>
+        <translation>Die Nachricht verifizieren, um sicherzustellen, dass diese mit der angegebenen OMFGcoin-Adresse signiert wurde</translation>
     </message>
     <message>
         <location filename="../forms/signverifymessagedialog.ui" line="298"/>
@@ -2017,8 +2017,8 @@ Das bedeutet, dass eine Gebühr von mindestens %2 erforderlich ist.</translation
     <message>
         <location filename="../signverifymessagedialog.cpp" line="31"/>
         <location filename="../signverifymessagedialog.cpp" line="32"/>
-        <source>Enter a Sprouts address</source>
-        <translation>Sprouts-Addresse eingeben</translation>
+        <source>Enter a OMFGcoin address</source>
+        <translation>OMFGcoin-Addresse eingeben</translation>
     </message>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="115"/>
@@ -2230,12 +2230,12 @@ Das bedeutet, dass eine Gebühr von mindestens %2 erforderlich ist.</translation
     <message>
         <location filename="../transactiondesc.cpp" line="234"/>
         <source>Generated coins must wait 520 blocks before they can be spent.  When you generated this block, it was broadcast to the network to be added to the block chain.  If it fails to get into the chain, it will change to &quot;not accepted&quot; and not be spendable.  This may occasionally happen if another node generates a block within a few seconds of yours.</source>
-        <translation>Erzeugte Sproutss müssen 520 Blöcke lang warten, bevor sie ausgegeben werden können. Als Sie diesen Block erzeugten, wurde er an das Netzwerk übertragen, um ihn der Blockkette hinzuzufügen. Falls dies fehlschlägt wird der Status in &quot;nicht angenommen&quot; geändert und der Betrag wird nicht verfügbar werden. Das kann gelegentlich passieren, wenn ein anderer Knoten einen Block zur selben Zeit wie Sie erzeugte.</translation>
+        <translation>Erzeugte OMFGcoins müssen 520 Blöcke lang warten, bevor sie ausgegeben werden können. Als Sie diesen Block erzeugten, wurde er an das Netzwerk übertragen, um ihn der Blockkette hinzuzufügen. Falls dies fehlschlägt wird der Status in &quot;nicht angenommen&quot; geändert und der Betrag wird nicht verfügbar werden. Das kann gelegentlich passieren, wenn ein anderer Knoten einen Block zur selben Zeit wie Sie erzeugte.</translation>
     </message>
     <message>
         <location filename="../transactiondesc.cpp" line="236"/>
         <source>Staked coins must wait 520 blocks before they can return to balance and be spent.  When you generated this proof-of-stake block, it was broadcast to the network to be added to the block chain.  If it fails to get into the chain, it will change to &quot;not accepted&quot; and not be a valid stake.  This may occasionally happen if another node generates a proof-of-stake block within a few seconds of yours.</source>
-        <translation>Geprägte Sproutss müssen 520 Blöcke lang warten, bevor sie ausgegeben werden können. Als Sie diesen Block prägten, wurde er an das Netzwerk übertragen, um ihn der Blockkette hinzuzufügen. Falls dies fehlschlägt wird der Status in &quot;nicht angenommen&quot; geändert und der Betrag wird nicht verfügbar werden. Das kann gelegentlich passieren, wenn ein anderer Knoten einen Block zur selben Zeit wie Sie prägte.</translation>
+        <translation>Geprägte OMFGcoins müssen 520 Blöcke lang warten, bevor sie ausgegeben werden können. Als Sie diesen Block prägten, wurde er an das Netzwerk übertragen, um ihn der Blockkette hinzuzufügen. Falls dies fehlschlägt wird der Status in &quot;nicht angenommen&quot; geändert und der Betrag wird nicht verfügbar werden. Das kann gelegentlich passieren, wenn ein anderer Knoten einen Block zur selben Zeit wie Sie prägte.</translation>
     </message>
 </context>
 <context>
@@ -2576,18 +2576,18 @@ Das bedeutet, dass eine Gebühr von mindestens %2 erforderlich ist.</translation
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="8"/>
-        <source>Unable to bind to port %d on this computer.  Sprouts is probably already running.</source>
-        <translation>Kann Port %d auf diesem Computer nicht binden. Sprouts läuft wahrscheinlich bereits. </translation>
+        <source>Unable to bind to port %d on this computer.  OMFGcoin is probably already running.</source>
+        <translation>Kann Port %d auf diesem Computer nicht binden. OMFGcoin läuft wahrscheinlich bereits. </translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="12"/>
-        <source>Sprouts version</source>
-        <translation>Sprouts Version</translation>
+        <source>OMFGcoin version</source>
+        <translation>OMFGcoin Version</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="14"/>
-        <source>Send command to -server or sproutsd</source>
-        <translation>Sende Befehl an -server oder sproutsd</translation>
+        <source>Send command to -server or OMFGcoind</source>
+        <translation>Sende Befehl an -server oder OMFGcoind</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="15"/>
@@ -2606,23 +2606,23 @@ Das bedeutet, dass eine Gebühr von mindestens %2 erforderlich ist.</translation
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="18"/>
-        <source>Specify configuration file (default: sprouts.conf)</source>
-        <translation>Konfigurations-Datei angeben (Standard: sprouts.conf)</translation>
+        <source>Specify configuration file (default: OMFGcoin.conf)</source>
+        <translation>Konfigurations-Datei angeben (Standard: OMFGcoin.conf)</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="19"/>
-        <source>Specify pid file (default: sproutsd.pid)</source>
-        <translation>PID-Datei angeben (Standard: sproutsd.pid)</translation>
+        <source>Specify pid file (default: OMFGcoind.pid)</source>
+        <translation>PID-Datei angeben (Standard: OMFGcoind.pid)</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="20"/>
         <source>Generate coins</source>
-        <translation>Sproutss generieren</translation>
+        <translation>OMFGcoins generieren</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="21"/>
         <source>Don&apos;t generate coins</source>
-        <translation>Keine Sproutss generieren</translation>
+        <translation>Keine OMFGcoins generieren</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="22"/>
@@ -2867,23 +2867,23 @@ SSL options: (see the Bitcoin Wiki for SSL setup instructions)</source>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="78"/>
-        <source>Cannot obtain a lock on data directory %s.  Sprouts is probably already running.</source>
-        <translation>Datenverzeichnis %s kann nicht gesperrt werden, da Sprouts wahrscheinlich bereits gestartet wurde.</translation>
+        <source>Cannot obtain a lock on data directory %s.  OMFGcoin is probably already running.</source>
+        <translation>Datenverzeichnis %s kann nicht gesperrt werden, da OMFGcoin wahrscheinlich bereits gestartet wurde.</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="81"/>
-        <source>Sprouts</source>
-        <translation>Sprouts</translation>
+        <source>OMFGcoin</source>
+        <translation>OMFGcoin</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="88"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Sprouts</source>
-        <translation>Fehler beim Laden von wallet.dat: Brieftasche benötigt neuere Version von Sprouts</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of OMFGcoin</source>
+        <translation>Fehler beim Laden von wallet.dat: Brieftasche benötigt neuere Version von OMFGcoin</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="89"/>
-        <source>Wallet needed to be rewritten: restart Sprouts to complete</source>
-        <translation>Brieftasche musste neu geschrieben werden: starten Sie Sprouts zur Fertigstellung neu</translation>
+        <source>Wallet needed to be rewritten: restart OMFGcoin to complete</source>
+        <translation>Brieftasche musste neu geschrieben werden: starten Sie OMFGcoin zur Fertigstellung neu</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="103"/>
@@ -2899,8 +2899,8 @@ If the file does not exist, create it with owner-readable-only file permissions.
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="119"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct.  If your clock is wrong Sprouts will not work properly.</source>
-        <translation>Warnung: Bitte korrigieren Sie die Datums- und Uhrzeiteinstellungen Ihres Computers, da Sprouts ansonsten nicht ordnungsgemäß funktionieren wird.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct.  If your clock is wrong OMFGcoin will not work properly.</source>
+        <translation>Warnung: Bitte korrigieren Sie die Datums- und Uhrzeiteinstellungen Ihres Computers, da OMFGcoin ansonsten nicht ordnungsgemäß funktionieren wird.</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="82"/>
@@ -3029,7 +3029,7 @@ Falls die Konfigurationsdatei nicht existiert, erzeugen Sie diese bitte mit Lese
     <message>
         <location filename="../bitcoinstrings.cpp" line="128"/>
         <source>Error: The transaction was rejected.  This might happen if some of the coins in your wallet were already spent, such as if you used a copy of wallet.dat and coins were spent in the copy but not marked as spent here.</source>
-        <translation>Fehler: Die Transaktion wurde abgelehnt. Dies kann passieren, wenn einige Sproutss aus Ihrer Brieftasche bereits ausgegeben wurden. Beispielsweise weil Sie eine Kopie Ihrer wallet.dat genutzt, die Sproutss dort ausgegeben haben und dies daher in der derzeit aktiven Brieftasche nicht vermerkt ist.</translation>
+        <translation>Fehler: Die Transaktion wurde abgelehnt. Dies kann passieren, wenn einige OMFGcoins aus Ihrer Brieftasche bereits ausgegeben wurden. Beispielsweise weil Sie eine Kopie Ihrer wallet.dat genutzt, die OMFGcoins dort ausgegeben haben und dies daher in der derzeit aktiven Brieftasche nicht vermerkt ist.</translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="132"/>

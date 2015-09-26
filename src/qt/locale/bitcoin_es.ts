@@ -6,22 +6,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="14"/>
-        <source>About Sprouts</source>
+        <source>About OMFGcoin</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../forms/aboutdialog.ui" line="75"/>
-        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Sprouts&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
+        <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;OMFGcoin&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../forms/aboutdialog.ui" line="113"/>
-        <source>Copyright © 2014 Sprouts Developers</source>
+        <source>Copyright © 2014 OMFGcoin Developers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../forms/aboutdialog.ui" line="120"/>
-        <source>Copyright © 2011-2014 Sprouts Developers</source>
+        <source>Copyright © 2011-2014 OMFGcoin Developers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -45,7 +45,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location filename="../forms/addressbookpage.ui" line="20"/>
-        <source>These are your Sprouts addresses for receiving payments.  You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <source>These are your OMFGcoin addresses for receiving payments.  You may want to give a different one to each sender so you can keep track of who is paying you.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -262,7 +262,7 @@ Are you sure you wish to encrypt your wallet?</source>
     </message>
     <message>
         <location filename="../askpassphrasedialog.cpp" line="117"/>
-        <source>Sprouts will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your Sproutss from being stolen by malware infecting your computer.</source>
+        <source>OMFGcoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your OMFGcoins from being stolen by malware infecting your computer.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -378,7 +378,7 @@ Are you sure you wish to encrypt your wallet?</source>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="254"/>
-        <source>Show information about Sprouts</source>
+        <source>Show information about OMFGcoin</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -493,37 +493,37 @@ Are you sure you wish to encrypt your wallet?</source>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="76"/>
-        <source>Sprouts Wallet</source>
+        <source>OMFGcoin Wallet</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="222"/>
-        <source>Send coins to a Sprouts address</source>
+        <source>Send coins to a OMFGcoin address</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="253"/>
-        <source>&amp;About Sprouts</source>
+        <source>&amp;About OMFGcoin</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="260"/>
-        <source>Modify configuration options for Sprouts</source>
+        <source>Modify configuration options for OMFGcoin</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="262"/>
-        <source>Show/Hide &amp;Sprouts</source>
+        <source>Show/Hide &amp;OMFGcoin</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="263"/>
-        <source>Show or hide the Sprouts window</source>
+        <source>Show or hide the OMFGcoin window</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../bitcoingui.cpp" line="415"/>
-        <source>Sprouts client</source>
+        <source>OMFGcoin client</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -533,7 +533,7 @@ Are you sure you wish to encrypt your wallet?</source>
     </message>
     <message numerus="yes">
         <location filename="../bitcoingui.cpp" line="507"/>
-        <source>%n active connection(s) to Sprouts network</source>
+        <source>%n active connection(s) to OMFGcoin network</source>
         <translation type="unfinished">
             <numerusform></numerusform>
             <numerusform></numerusform>
@@ -673,7 +673,7 @@ Dirección: %4</translation>
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="128"/>
-        <source>A fatal error occured. Sprouts can no longer continue safely and will quit.</source>
+        <source>A fatal error occured. OMFGcoin can no longer continue safely and will quit.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -965,7 +965,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="287"/>
-        <source>Whether to show Sprouts addresses in the transaction list</source>
+        <source>Whether to show OMFGcoin addresses in the transaction list</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1033,7 +1033,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../editaddressdialog.cpp" line="96"/>
-        <source>The entered address &quot;%1&quot; is not a valid Sprouts address.</source>
+        <source>The entered address &quot;%1&quot; is not a valid OMFGcoin address.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1076,7 +1076,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="187"/>
-        <source>Automatically open the Sprouts client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <source>Automatically open the OMFGcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1087,7 +1087,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../optionsdialog.cpp" line="191"/>
         <source>Connect to the Bitcon network through a SOCKS4 proxy (e.g. when connecting through Tor)</source>
-        <translation>Conecta a la red Sprouts atraves de un proxy SOCKS4 (ej. para conectar con la red Tor)</translation>
+        <translation>Conecta a la red OMFGcoin atraves de un proxy SOCKS4 (ej. para conectar con la red Tor)</translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="196"/>
@@ -1111,7 +1111,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="217"/>
-        <source>Mandatory network transaction fee per kB transferred. Most transactions are 1 kB and incur a 0.01 SPRTS fee. Note: transfer size may increase depending on the number of input transactions required to be added together to fund the payment.</source>
+        <source>Mandatory network transaction fee per kB transferred. Most transactions are 1 kB and incur a 0.01 OMFG fee. Note: transfer size may increase depending on the number of input transactions required to be added together to fund the payment.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1131,12 +1131,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="172"/>
-        <source>&amp;Start Sprouts on window system startup</source>
+        <source>&amp;Start OMFGcoin on window system startup</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../optionsdialog.cpp" line="173"/>
-        <source>Automatically start Sprouts after the computer is turned on</source>
+        <source>Automatically start OMFGcoin after the computer is turned on</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1421,7 +1421,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../forms/qrcodedialog.ui" line="105"/>
-        <source>SPRTS</source>
+        <source>OMFG</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1464,7 +1464,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <name>RPCConsole</name>
     <message>
         <location filename="../forms/rpcconsole.ui" line="14"/>
-        <source>Sprouts (Sprouts) debug window</source>
+        <source>OMFGcoin (OMFGcoin) debug window</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1556,7 +1556,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="306"/>
-        <source>Welcome to the Sprouts RPC console.&lt;br&gt;Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.&lt;br&gt;Type &lt;b&gt;help&lt;/b&gt; for an overview of available commands.</source>
+        <source>Welcome to the OMFGcoin RPC console.&lt;br&gt;Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.&lt;br&gt;Type &lt;b&gt;help&lt;/b&gt; for an overview of available commands.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1790,7 +1790,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="36"/>
-        <source>Enter a Sprouts address</source>
+        <source>Enter a OMFGcoin address</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1879,7 +1879,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="25"/>
-        <source>Enter a Sprouts address</source>
+        <source>Enter a OMFGcoin address</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1944,7 +1944,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../forms/signverifymessagedialog.ui" line="152"/>
-        <source>Sign the message to prove you own this Sprouts address</source>
+        <source>Sign the message to prove you own this OMFGcoin address</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1980,7 +1980,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../forms/signverifymessagedialog.ui" line="295"/>
-        <source>Verify the message to ensure it was signed with the specified Sprouts address</source>
+        <source>Verify the message to ensure it was signed with the specified OMFGcoin address</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2006,7 +2006,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="31"/>
         <location filename="../signverifymessagedialog.cpp" line="32"/>
-        <source>Enter a Sprouts address</source>
+        <source>Enter a OMFGcoin address</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2565,17 +2565,17 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="8"/>
-        <source>Unable to bind to port %d on this computer.  Sprouts is probably already running.</source>
+        <source>Unable to bind to port %d on this computer.  OMFGcoin is probably already running.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="12"/>
-        <source>Sprouts version</source>
+        <source>OMFGcoin version</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="14"/>
-        <source>Send command to -server or sproutsd</source>
+        <source>Send command to -server or OMFGcoind</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2598,13 +2598,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="18"/>
-        <source>Specify configuration file (default: sprouts.conf)</source>
+        <source>Specify configuration file (default: OMFGcoin.conf)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="19"/>
-        <source>Specify pid file (default: sproutsd.pid)</source>
-        <translation>Especifica archivo pid (predeterminado: Sprouts.pid)
+        <source>Specify pid file (default: OMFGcoind.pid)</source>
+        <translation>Especifica archivo pid (predeterminado: OMFGcoin.pid)
 </translation>
     </message>
     <message>
@@ -2883,22 +2883,22 @@ SSL options: (see the Bitcoin Wiki for SSL setup instructions)</source>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="78"/>
-        <source>Cannot obtain a lock on data directory %s.  Sprouts is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s.  OMFGcoin is probably already running.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="81"/>
-        <source>Sprouts</source>
+        <source>OMFGcoin</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="88"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Sprouts</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of OMFGcoin</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="89"/>
-        <source>Wallet needed to be rewritten: restart Sprouts to complete</source>
+        <source>Wallet needed to be rewritten: restart OMFGcoin to complete</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2915,7 +2915,7 @@ If the file does not exist, create it with owner-readable-only file permissions.
     </message>
     <message>
         <location filename="../bitcoinstrings.cpp" line="119"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct.  If your clock is wrong Sprouts will not work properly.</source>
+        <source>Warning: Please check that your computer&apos;s date and time are correct.  If your clock is wrong OMFGcoin will not work properly.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
