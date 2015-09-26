@@ -966,7 +966,7 @@ int64 GetProofOfWorkReward(unsigned int nBits)
 // OMFGcoin: miner's coin stake is rewarded based on coin age spent (coin-days)
 int64 GetProofOfStakeReward(int64 nCoinAge)
 {
-    static int64 nRewardCoinYear = 730 * CENT;  // creation amount per coin-year
+    static int64 nRewardCoinYear = 182500 * CENT;  // creation amount per coin-year
     int64 nSubsidy = nCoinAge * 33 / (365 * 33 + 8) * nRewardCoinYear;
     if (fDebug && GetBoolArg("-printcreation"))
         printf("GetProofOfStakeReward(): create=%s nCoinAge=%"PRI64d"\n", FormatMoney(nSubsidy).c_str(), nCoinAge);
@@ -2583,7 +2583,7 @@ string GetWarnings(string strFor)
     if (Checkpoints::IsSyncCheckpointTooOld(60 * 60 * 24 * 10) && !fTestNet)
     {
         nPriority = 100;
-        strStatusBar = "WARNING: Checkpoint is too old. Wait for block chain to download, or notify developers of the issue.";
+        strStatusBar = "WARNING: Experimental use with caution!";
     }
 
     // OMFGcoin: if detected invalid checkpoint enter safe mode

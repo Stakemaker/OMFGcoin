@@ -277,8 +277,8 @@ class CBitcoinAddress : public CBase58Data
 public:
     enum
     {
-        PUBKEY_ADDRESS = 63,  // OMFGcoin: addresses begin with 'P'
-        SCRIPT_ADDRESS = 125, // OMFGcoin: addresses begin with 'p'
+        PUBKEY_ADDRESS = 15,  // OMFGcoin: addresses begin with 'G'
+        SCRIPT_ADDRESS = 39, // OMFGcoin: addresses begin with 'g'
         PUBKEY_ADDRESS_TEST = 111,
         SCRIPT_ADDRESS_TEST = 196,
     };
